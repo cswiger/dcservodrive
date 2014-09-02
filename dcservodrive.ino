@@ -1,5 +1,5 @@
-/* Arduino sketch to take Step & Direction signals from a gcode interpreter (such as a tinyg) and driving
-   a dc servo motor with encoder feedback from a Sparkfun Ardumoto shield. This sketch is customized for Two
+/* Arduino sketch to take Step & Direction signals from a gcode interpreter (such as a tinyg) and drives
+   a dc servo motor with encoder feedback using a Sparkfun Ardumoto shield. This sketch is customized for Two
    motors called X and Z and needs a mega2650 - a single motor version should work on a Uno.
    
    pins are - encoder inputs:
